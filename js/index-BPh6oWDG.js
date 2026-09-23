@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C_JJxWoe.js";import{t as r}from"./ua-parser-DUrqSheI.js";var t=e(r());function o(e){window.location.replace(`${e}#/`)}!function(){if(!navigator.userAgent)return!1;const e=(0,t.default)(navigator.userAgent);if(!e||!e.device)return!1;const r=e.device;return"mobile"===r.type||"wearable"===r.type||"embedded"===r.type}()?o("desktop"):o("mobile");
