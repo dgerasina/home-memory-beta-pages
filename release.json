@@ -1,8 +1,8 @@
 {
     "product": "Domery",
-    "version": "0.2.2",
+    "version": "0.3.1",
     "channel": "internal-beta",
-    "releasedAt": "2026-09-23",
+    "releasedAt": "2026-09-25",
     "features": [
         "local-first inventory and event history",
         "deterministic explainable predictions",
@@ -11,7 +11,11 @@
         "validated backup and restore",
         "local due notifications",
         "optimized mobile startup with lazy Domery routes",
-        "removed legacy mobile offline precache and reduced Framework7 CSS"
+        "removed legacy mobile offline precache and reduced Framework7 CSS",
+        "expressive responsive Domery dashboard and navigation",
+        "four-step local-first onboarding with settings replay",
+        "system, light and dark appearance modes",
+        "automatic recovery from legacy PWA caches"
     ],
     "limitations": [
         "no cross-device household sync",
