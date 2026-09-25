@@ -1,6 +1,6 @@
 {
     "product": "Domery",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "channel": "internal-beta",
     "releasedAt": "2026-09-25",
     "features": [
@@ -15,7 +15,8 @@
         "expressive responsive Domery dashboard and navigation",
         "four-step local-first onboarding with settings replay",
         "system, light and dark appearance modes",
-        "automatic recovery from legacy PWA caches"
+        "automatic recovery from legacy PWA caches",
+        "stable mobile navigation and refined interface alignment"
     ],
     "limitations": [
         "no cross-device household sync",
