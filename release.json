@@ -1,8 +1,8 @@
 {
     "product": "Domery",
-    "version": "0.3.3",
+    "version": "0.3.4",
     "channel": "internal-beta",
-    "releasedAt": "2026-09-25",
+    "releasedAt": "2026-09-26",
     "features": [
         "local-first inventory and event history",
         "deterministic explainable predictions",
@@ -17,7 +17,9 @@
         "system, light and dark appearance modes",
         "automatic recovery from legacy PWA caches",
         "stable mobile navigation and refined interface alignment",
-        "explainable routine-based consumption estimates and reliable shopping feedback"
+        "explainable routine-based consumption estimates and reliable shopping feedback",
+        "calm opaque mobile interface without gradients, glass effects or decorative noise",
+        "simplified onboarding and edge-to-edge mobile navigation"
     ],
     "limitations": [
         "no cross-device household sync",
